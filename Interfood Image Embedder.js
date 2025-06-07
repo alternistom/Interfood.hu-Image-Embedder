@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Interfood Image Embedder
+// @name         Interfood.hu Image Embedder
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Automatically show images for each food item on Interfood.hu website
