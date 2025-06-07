@@ -1,11 +1,14 @@
 // ==UserScript==
-// @name         Interfood.hu Image Embedder
+// @name         Interfood.hu Kép Megjelenítő
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Automatically show images for each food item on Interfood.hu website
+// @description  A script beágyazza a képeket az ételek fölé, nem kell már hoverelni hogy lássuk a képet.
 // @author       Fábián Tamás
 // @match        https://rendel.interfood.hu/*
 // @grant        none
+// @license      MIT
+// @downloadURL https://update.greasyfork.org/scripts/538695/Interfoodhu%20K%C3%A9p%20Megjelen%C3%ADt%C5%91.user.js
+// @updateURL https://update.greasyfork.org/scripts/538695/Interfoodhu%20K%C3%A9p%20Megjelen%C3%ADt%C5%91.meta.js
 // ==/UserScript==
 
 (function () {
